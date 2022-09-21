@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class AppStyle{
   static Color secondaryColor = Color(0xff121312);
   static Color canvasColor = Color(0xff1A1A1A);
+  static Color divider=const Color(0xFF707070);
   static Color primaryColor = Color(0xffC6C6C6);
   static Color itemBackColor = Color(0xff343534);
   static Color date_type_color = Color(0xffB5B4B4);
